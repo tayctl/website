@@ -1,0 +1,2432 @@
+{
+  "title": "70.3 Training Plan",
+  "startDate": "2026-11-30",
+  "raceDate": "2027-06-13",
+  "weeks": [
+    {
+      "n": 1,
+      "date": "Nov 30",
+      "phase": "Base",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": "Starts Tue Dec 1"
+    },
+    {
+      "n": 2,
+      "date": "Dec 7",
+      "phase": "Base",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 3,
+      "date": "Dec 14",
+      "phase": "Base",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 4,
+      "date": "Dec 21",
+      "phase": "Base",
+      "load": "Recovery",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": "Holidays"
+    },
+    {
+      "n": 5,
+      "date": "Dec 28",
+      "phase": "Base",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 6,
+      "date": "Jan 4",
+      "phase": "Base",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 7,
+      "date": "Jan 11",
+      "phase": "Base",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 8,
+      "date": "Jan 18",
+      "phase": "Base",
+      "load": "Recovery",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 9,
+      "date": "Jan 25",
+      "phase": "Base",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 10,
+      "date": "Feb 1",
+      "phase": "Base",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": "Fitness test?"
+    },
+    {
+      "n": 11,
+      "date": "Feb 8",
+      "phase": "Build",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C"
+        ],
+        [
+          "Bike 2",
+          "Run (brick)"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 12,
+      "date": "Feb 15",
+      "phase": "Build",
+      "load": "Recovery",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C (opt)"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 13,
+      "date": "Feb 22",
+      "phase": "Build",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C (opt)"
+        ],
+        [
+          "Bike 2",
+          "Run (brick)"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 14,
+      "date": "Mar 1",
+      "phase": "Build",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C (opt)"
+        ],
+        [
+          "Bike 2",
+          "Run (brick)"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 15,
+      "date": "Mar 8",
+      "phase": "Build",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2",
+          "Strength C (opt)"
+        ],
+        [
+          "Bike 2",
+          "Run (brick)"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 16,
+      "date": "Mar 15",
+      "phase": "Build",
+      "load": "Recovery",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 17,
+      "date": "Mar 22",
+      "phase": "Build",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2",
+          "Run (brick)"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 18,
+      "date": "Mar 29",
+      "phase": "Build",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2",
+          "Run (brick)"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 19,
+      "date": "Apr 5",
+      "phase": "Build",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2",
+          "Run (brick)"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 20,
+      "date": "Apr 12",
+      "phase": "Build",
+      "load": "Recovery",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": "Fitness test / B-race?"
+    },
+    {
+      "n": 21,
+      "date": "Apr 19",
+      "phase": "Peak",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2",
+          "Run (brick)"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 22,
+      "date": "Apr 26",
+      "phase": "Peak",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2",
+          "Run (brick)"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": "Longest ride/brick"
+    },
+    {
+      "n": 23,
+      "date": "May 3",
+      "phase": "Peak",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2",
+          "Run (brick)"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 24,
+      "date": "May 10",
+      "phase": "Peak",
+      "load": "Recovery",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 25,
+      "date": "May 17",
+      "phase": "Peak",
+      "load": "Build",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2",
+          "Run (brick)"
+        ],
+        [
+          "Run 2"
+        ]
+      ],
+      "note": "Last big week"
+    },
+    {
+      "n": 26,
+      "date": "May 24",
+      "phase": "Taper",
+      "load": "Reduce",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1",
+          "Strength B (light)"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2 (short)",
+          "Run (brick, short)"
+        ],
+        [
+          "Run 2 (short)"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 27,
+      "date": "May 31",
+      "phase": "Taper",
+      "load": "Reduce",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim 1",
+          "Strength A (light)"
+        ],
+        [
+          "Run 1"
+        ],
+        [
+          "Bike 1"
+        ],
+        [
+          "Swim 2"
+        ],
+        [
+          "Bike 2 (short)",
+          "Run (brick, short)"
+        ],
+        [
+          "Run 2 (short)"
+        ]
+      ],
+      "note": ""
+    },
+    {
+      "n": 28,
+      "date": "Jun 7",
+      "phase": "Race",
+      "load": "Race week",
+      "days": [
+        [
+          "Rest"
+        ],
+        [
+          "Swim (short)"
+        ],
+        [
+          "Run (short)"
+        ],
+        [
+          "Bike (short)"
+        ],
+        [
+          "Rest"
+        ],
+        [
+          "Swim (shakeout)",
+          "Bike (shakeout)",
+          "Run (shakeout)"
+        ],
+        [
+          "RACE DAY"
+        ]
+      ],
+      "note": "Race is Sun Jun 13"
+    }
+  ],
+  "workouts": {
+    "1-1-0": {
+      "distance": "600",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "100 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 2x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "1-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "1-2-0": {
+      "distance": "5",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy run, soft restart after the marathon. 4x20 s relaxed strides at the end"
+    },
+    "1-3-0": {
+      "distance": "45",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": "Steady easy spin"
+    },
+    "1-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "1-4-0": {
+      "distance": "800",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 5x100 m steady, 20 s rest, 100 m easy cooldown"
+    },
+    "1-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "1-5-0": {
+      "distance": "60",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "1-6-0": {
+      "distance": "8",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "2-1-0": {
+      "distance": "700",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "100 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "2-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "2-2-0": {
+      "distance": "6",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "1.5 km warmup, 4x2 min medium, 2 min easy jog, easy cooldown"
+    },
+    "2-3-0": {
+      "distance": "50",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": "Steady easy spin, 5x30 s high cadence"
+    },
+    "2-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "2-4-0": {
+      "distance": "900",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 6x100 m steady, 20 s rest, 100 m easy cooldown"
+    },
+    "2-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "2-5-0": {
+      "distance": "75",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "2-6-0": {
+      "distance": "10",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "3-1-0": {
+      "distance": "800",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "3-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "3-2-0": {
+      "distance": "7",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "1.5 km warmup, 3x6 min tempo, 2 min easy jog, 1.5 km cooldown"
+    },
+    "3-3-0": {
+      "distance": "55",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "10 min warmup, 3x8 min medium, 4 min easy, easy spin to finish"
+    },
+    "3-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "3-4-0": {
+      "distance": "1000",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 3x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "3-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "3-5-0": {
+      "distance": "90",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "3-6-0": {
+      "distance": "12",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "4-1-0": {
+      "distance": "600",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "100 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 2x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "4-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "4-2-0": {
+      "distance": "6",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "1.5 km warmup, 4x4 min tempo, 2 min easy jog, easy cooldown"
+    },
+    "4-3-0": {
+      "distance": "45",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": "Steady easy spin"
+    },
+    "4-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "4-4-0": {
+      "distance": "800",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 5x100 m steady, 20 s rest, 100 m easy cooldown"
+    },
+    "4-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "4-5-0": {
+      "distance": "70",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "4-6-0": {
+      "distance": "10",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "5-1-0": {
+      "distance": "900",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 4x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "5-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "5-2-0": {
+      "distance": "8",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 2x10 min tempo, 3 min easy jog, 1.5 km cooldown"
+    },
+    "5-3-0": {
+      "distance": "60",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "10 min warmup, 3x10 min medium, 4 min easy, easy spin to finish"
+    },
+    "5-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "5-4-0": {
+      "distance": "1100",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x200 m steady, 20 s rest, 100 m easy cooldown"
+    },
+    "5-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "5-5-0": {
+      "distance": "100",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "5-6-0": {
+      "distance": "13",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "6-1-0": {
+      "distance": "1000",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "6-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "6-2-0": {
+      "distance": "8",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 20 min continuous tempo, 1.5 km cooldown"
+    },
+    "6-3-0": {
+      "distance": "60",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "10 min warmup, 2x15 min medium, 5 min easy, easy spin to finish"
+    },
+    "6-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "6-4-0": {
+      "distance": "1200",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "6-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "6-5-0": {
+      "distance": "110",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "6-6-0": {
+      "distance": "14",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "7-1-0": {
+      "distance": "1000",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "7-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "7-2-0": {
+      "distance": "9",
+      "unit": "km",
+      "effort": "hard",
+      "intervals": "2 km warmup, 6x3 min hard, 90 s easy jog, 1.5 km cooldown"
+    },
+    "7-3-0": {
+      "distance": "65",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "10 min warmup, 4x8 min medium, 4 min easy, easy spin to finish"
+    },
+    "7-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "7-4-0": {
+      "distance": "1300",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 5x200 m steady, 20 s rest, 100 m easy cooldown"
+    },
+    "7-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "7-5-0": {
+      "distance": "120",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "7-6-0": {
+      "distance": "15",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "8-1-0": {
+      "distance": "800",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "8-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "8-2-0": {
+      "distance": "6",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "1.5 km warmup, 15 min tempo, easy cooldown"
+    },
+    "8-3-0": {
+      "distance": "50",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": "Steady easy spin"
+    },
+    "8-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "8-4-0": {
+      "distance": "1000",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 3x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "8-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "8-5-0": {
+      "distance": "90",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "8-6-0": {
+      "distance": "12",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "9-1-0": {
+      "distance": "1100",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 6x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "9-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "9-2-0": {
+      "distance": "9",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 3x10 min tempo, 3 min easy jog, 1.5 km cooldown"
+    },
+    "9-3-0": {
+      "distance": "70",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "10 min warmup, 3x12 min medium, 5 min easy, easy spin to finish"
+    },
+    "9-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "9-4-0": {
+      "distance": "1400",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 5x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "9-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "9-5-0": {
+      "distance": "130",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Steady easy, last 20 min at medium"
+    },
+    "9-6-0": {
+      "distance": "16",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 3 km at medium"
+    },
+    "10-1-0": {
+      "distance": "1100",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 6x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "10-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "10-2-0": {
+      "distance": "8",
+      "unit": "km",
+      "effort": "hard",
+      "intervals": "2 km warmup, 5 km time trial at hard effort (fitness test, note the time), 1 km cooldown"
+    },
+    "10-3-0": {
+      "distance": "50",
+      "unit": "min",
+      "effort": "hard",
+      "intervals": "15 min warmup, 20 min steady time trial at hard effort (fitness test), easy spin to finish"
+    },
+    "10-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "10-4-0": {
+      "distance": "1500",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 400 m time trial (fitness test, note the time), 200 m easy, 6x100 m steady, 20 s rest, 100 m easy cooldown"
+    },
+    "10-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "10-5-0": {
+      "distance": "140",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "10-6-0": {
+      "distance": "16",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 3 km at medium"
+    },
+    "11-1-0": {
+      "distance": "1200",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "11-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "11-2-0": {
+      "distance": "10",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 4x8 min tempo, 2 min easy jog, 1.5 km cooldown"
+    },
+    "11-3-0": {
+      "distance": "70",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "10 min warmup, 3x10 min upper medium, 5 min easy, easy spin to finish"
+    },
+    "11-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "11-4-0": {
+      "distance": "1500",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 6x200 m steady, 20 s rest, 100 m easy cooldown"
+    },
+    "11-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "11-5-0": {
+      "distance": "150",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Steady easy, last 30 min at medium"
+    },
+    "11-5-1": {
+      "distance": "2",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Straight off the bike, first km easy, settle into rhythm"
+    },
+    "11-6-0": {
+      "distance": "17",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 3 km at medium"
+    },
+    "12-1-0": {
+      "distance": "1000",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "12-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "12-2-0": {
+      "distance": "7",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 3x6 min tempo, 2 min easy jog, easy cooldown"
+    },
+    "12-3-0": {
+      "distance": "55",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": "Steady easy spin"
+    },
+    "12-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "12-4-0": {
+      "distance": "1200",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "12-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "12-5-0": {
+      "distance": "100",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "12-6-0": {
+      "distance": "13",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "13-1-0": {
+      "distance": "1300",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 4x200 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "13-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "13-2-0": {
+      "distance": "10",
+      "unit": "km",
+      "effort": "hard",
+      "intervals": "2 km warmup, 5x1 km hard, 2 min easy jog, 1.5 km cooldown"
+    },
+    "13-3-0": {
+      "distance": "75",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "10 min warmup, 4x10 min upper medium, 4 min easy, easy spin to finish"
+    },
+    "13-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "13-4-0": {
+      "distance": "1600",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 6x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "13-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "13-5-0": {
+      "distance": "165",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Steady easy, last 40 min at medium"
+    },
+    "13-5-1": {
+      "distance": "3",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Straight off the bike, first km easy, settle into rhythm"
+    },
+    "13-6-0": {
+      "distance": "18",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 3 km at medium"
+    },
+    "14-1-0": {
+      "distance": "1400",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 4x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "14-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "14-2-0": {
+      "distance": "10",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 2x15 min tempo, 3 min easy jog, 1.5 km cooldown"
+    },
+    "14-3-0": {
+      "distance": "75",
+      "unit": "min",
+      "effort": "hard",
+      "intervals": "15 min warmup, 6x5 min hard, 3 min easy, easy spin to finish"
+    },
+    "14-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "14-4-0": {
+      "distance": "1700",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 7x200 m steady, 20 s rest, 100 m easy cooldown"
+    },
+    "14-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "14-5-0": {
+      "distance": "180",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Steady easy, last 45 min at medium"
+    },
+    "14-5-1": {
+      "distance": "3",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Straight off the bike, first km easy, settle into rhythm"
+    },
+    "14-6-0": {
+      "distance": "18",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 3 km at medium"
+    },
+    "15-1-0": {
+      "distance": "1400",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 4x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "15-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "15-2-0": {
+      "distance": "11",
+      "unit": "km",
+      "effort": "hard",
+      "intervals": "2 km warmup, 6x1 km hard, 2 min easy jog, 1.5 km cooldown"
+    },
+    "15-3-0": {
+      "distance": "80",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "15 min warmup, 2x20 min medium, 5 min easy, easy spin to finish"
+    },
+    "15-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "15-4-0": {
+      "distance": "1800",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 7x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "15-4-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "15-5-0": {
+      "distance": "195",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Steady easy, last 45 min at medium"
+    },
+    "15-5-1": {
+      "distance": "4",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Straight off the bike, first km easy, settle into rhythm"
+    },
+    "15-6-0": {
+      "distance": "19",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 3 km at medium"
+    },
+    "16-1-0": {
+      "distance": "1100",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 6x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "16-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "16-2-0": {
+      "distance": "8",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 20 min tempo, 1.5 km cooldown"
+    },
+    "16-3-0": {
+      "distance": "60",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": "Steady easy spin"
+    },
+    "16-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "16-4-0": {
+      "distance": "1400",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 5x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "16-5-0": {
+      "distance": "120",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "16-6-0": {
+      "distance": "14",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "17-1-0": {
+      "distance": "1500",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x200 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "17-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "17-2-0": {
+      "distance": "12",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 3x12 min tempo, 3 min easy jog, 1.5 km cooldown"
+    },
+    "17-3-0": {
+      "distance": "80",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "15 min warmup, 3x15 min medium, 5 min easy, easy spin to finish"
+    },
+    "17-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "17-4-0": {
+      "distance": "1900",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 1000 m continuous at steady effort, 6x100 m easy, 15 s rest, 100 m easy cooldown"
+    },
+    "17-5-0": {
+      "distance": "200",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Steady easy, last 60 min at medium"
+    },
+    "17-5-1": {
+      "distance": "4",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Straight off the bike, first km easy, settle into rhythm"
+    },
+    "17-6-0": {
+      "distance": "19",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 5 km at medium"
+    },
+    "18-1-0": {
+      "distance": "1500",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x200 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "18-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "18-2-0": {
+      "distance": "10",
+      "unit": "km",
+      "effort": "hard",
+      "intervals": "2 km warmup, 5x5 min hard, 2.5 min easy jog, 1.5 km cooldown"
+    },
+    "18-3-0": {
+      "distance": "75",
+      "unit": "min",
+      "effort": "hard",
+      "intervals": "15 min warmup, 5x6 min hard, 3 min easy, easy spin to finish"
+    },
+    "18-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "18-4-0": {
+      "distance": "2000",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 1000 m continuous at steady effort, 3x200 m easy, 15 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "18-5-0": {
+      "distance": "210",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Steady easy, last 60 min at medium"
+    },
+    "18-5-1": {
+      "distance": "5",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Straight off the bike, first km easy, settle into rhythm"
+    },
+    "18-6-0": {
+      "distance": "20",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 5 km at medium"
+    },
+    "19-1-0": {
+      "distance": "1600",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "19-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "19-2-0": {
+      "distance": "12",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 40 min continuous tempo, 1.5 km cooldown"
+    },
+    "19-3-0": {
+      "distance": "85",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "15 min warmup, 2x25 min medium, 5 min easy, easy spin to finish"
+    },
+    "19-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "19-4-0": {
+      "distance": "2000",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 1000 m continuous at steady effort, 3x200 m easy, 15 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "19-5-0": {
+      "distance": "225",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Steady easy, last 60 min at medium"
+    },
+    "19-5-1": {
+      "distance": "5",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Straight off the bike, first km easy, settle into rhythm"
+    },
+    "19-6-0": {
+      "distance": "20",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 5 km at medium"
+    },
+    "20-1-0": {
+      "distance": "1200",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "20-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "20-2-0": {
+      "distance": "8",
+      "unit": "km",
+      "effort": "hard",
+      "intervals": "2 km warmup, 5 km time trial or 10k B-race at hard effort (fitness test), 1 km cooldown"
+    },
+    "20-3-0": {
+      "distance": "60",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": "Steady easy spin"
+    },
+    "20-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "20-4-0": {
+      "distance": "1500",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 400 m time trial (fitness test, note the time), 200 m easy, 6x100 m steady, 20 s rest, 100 m easy cooldown"
+    },
+    "20-5-0": {
+      "distance": "135",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "20-6-0": {
+      "distance": "15",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "21-1-0": {
+      "distance": "1600",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "21-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "21-2-0": {
+      "distance": "12",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 2x20 min tempo, 3 min easy jog, 1.5 km cooldown"
+    },
+    "21-3-0": {
+      "distance": "80",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "15 min warmup, 3x15 min medium, 5 min easy, easy spin to finish"
+    },
+    "21-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "21-4-0": {
+      "distance": "2100",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 1500 m continuous at steady effort, 3x100 m easy, 15 s rest, 100 m easy cooldown"
+    },
+    "21-5-0": {
+      "distance": "210",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Steady easy, last 60 min at medium"
+    },
+    "21-5-1": {
+      "distance": "6",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Straight off the bike, first km easy, settle into rhythm"
+    },
+    "21-6-0": {
+      "distance": "18",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 5 km at medium"
+    },
+    "22-1-0": {
+      "distance": "1700",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 6x200 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "22-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "22-2-0": {
+      "distance": "13",
+      "unit": "km",
+      "effort": "hard",
+      "intervals": "2 km warmup, 4x2 km hard, 3 min easy jog, 1.5 km cooldown"
+    },
+    "22-3-0": {
+      "distance": "80",
+      "unit": "min",
+      "effort": "hard",
+      "intervals": "15 min warmup, 4x8 min hard, 4 min easy, easy spin to finish"
+    },
+    "22-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "22-4-0": {
+      "distance": "2200",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 1500 m continuous at steady effort, 4x100 m easy, 15 s rest, 100 m easy cooldown"
+    },
+    "22-5-0": {
+      "distance": "240",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Easy start, 2x45 min at race effort (medium), 5 min easy between, easy to finish. Longest ride of the plan, practice race fueling"
+    },
+    "22-5-1": {
+      "distance": "8",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Straight off the bike, first 2 km easy, then hold race pace"
+    },
+    "22-6-0": {
+      "distance": "16",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "23-1-0": {
+      "distance": "1700",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 6x200 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "23-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "23-2-0": {
+      "distance": "12",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 3x15 min tempo, 3 min easy jog, 1.5 km cooldown"
+    },
+    "23-3-0": {
+      "distance": "80",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "15 min warmup, 2x20 min at race effort, 5 min easy, easy spin to finish"
+    },
+    "23-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "23-4-0": {
+      "distance": "2200",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 1500 m continuous at steady effort, 4x100 m easy, 15 s rest, 100 m easy cooldown"
+    },
+    "23-5-0": {
+      "distance": "200",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Steady easy, last 60 min at medium"
+    },
+    "23-5-1": {
+      "distance": "6",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Straight off the bike, first km easy, settle into rhythm"
+    },
+    "23-6-0": {
+      "distance": "20",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 5 km at medium"
+    },
+    "24-1-0": {
+      "distance": "1300",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 4x200 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "24-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "24-2-0": {
+      "distance": "8",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 3x8 min tempo, 2 min easy jog, 1 km cooldown"
+    },
+    "24-3-0": {
+      "distance": "55",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": "Steady easy spin"
+    },
+    "24-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "24-4-0": {
+      "distance": "1600",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 6x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "24-5-0": {
+      "distance": "120",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "24-6-0": {
+      "distance": "14",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": ""
+    },
+    "25-1-0": {
+      "distance": "1600",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "25-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "25-2-0": {
+      "distance": "11",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 2x15 min at half marathon race effort, 3 min easy jog, 1.5 km cooldown"
+    },
+    "25-3-0": {
+      "distance": "75",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "15 min warmup, 3x12 min at race effort, 4 min easy, easy spin to finish"
+    },
+    "25-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "25-4-0": {
+      "distance": "2000",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 1500 m continuous at steady effort, 2x100 m easy, 15 s rest, 100 m easy cooldown"
+    },
+    "25-5-0": {
+      "distance": "210",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Steady easy, last 45 min at medium"
+    },
+    "25-5-1": {
+      "distance": "6",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Straight off the bike, first km easy, settle into rhythm"
+    },
+    "25-6-0": {
+      "distance": "18",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Easy, last 5 km at medium"
+    },
+    "26-1-0": {
+      "distance": "1200",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "26-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "26-2-0": {
+      "distance": "9",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 3x8 min tempo, 3 min easy jog, 1.5 km cooldown"
+    },
+    "26-3-0": {
+      "distance": "60",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "15 min warmup, 3x6 min at race effort, 3 min easy, easy spin to finish"
+    },
+    "26-3-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "26-4-0": {
+      "distance": "1500",
+      "unit": "m",
+      "effort": "medium",
+      "intervals": "200 m easy warmup, 6x200 m steady, 20 s rest, 100 m easy cooldown"
+    },
+    "26-5-0": {
+      "distance": "120",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "Easy start, 2x10 min at race effort, easy to finish"
+    },
+    "26-5-1": {
+      "distance": "3",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Straight off the bike, easy to medium, short and sharp"
+    },
+    "26-6-0": {
+      "distance": "12",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Relaxed easy run"
+    },
+    "27-1-0": {
+      "distance": "1000",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x100 m technique focus, 20 s rest, 100 m easy cooldown"
+    },
+    "27-1-1": {
+      "distance": "",
+      "unit": "",
+      "effort": "",
+      "intervals": ""
+    },
+    "27-2-0": {
+      "distance": "6",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km warmup, 4x3 min medium, 2 min easy jog, 1 km cooldown"
+    },
+    "27-3-0": {
+      "distance": "45",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "15 min warmup, 3x3 min at race effort, 3 min easy, easy spin to finish"
+    },
+    "27-4-0": {
+      "distance": "1200",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+    },
+    "27-5-0": {
+      "distance": "90",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": "Easy ride, 3x3 min at race effort mid-ride"
+    },
+    "27-5-1": {
+      "distance": "2",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Straight off the bike, easy to medium, short and sharp"
+    },
+    "27-6-0": {
+      "distance": "8",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Relaxed easy run"
+    },
+    "28-1-0": {
+      "distance": "1000",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "200 m easy warmup, 4x100 m at race effort, 30 s rest, easy to finish"
+    },
+    "28-2-0": {
+      "distance": "6",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "2 km easy, 2x5 min at race effort, 2 min easy jog, easy to finish"
+    },
+    "28-3-0": {
+      "distance": "45",
+      "unit": "min",
+      "effort": "medium",
+      "intervals": "15 min easy, 3x3 min at race effort, 3 min easy, easy spin to finish"
+    },
+    "28-5-0": {
+      "distance": "400",
+      "unit": "m",
+      "effort": "easy",
+      "intervals": "Easy swim with 4x25 m pick-ups"
+    },
+    "28-5-1": {
+      "distance": "30",
+      "unit": "min",
+      "effort": "easy",
+      "intervals": "Easy spin with 3x1 min at race effort, check gears and brakes"
+    },
+    "28-5-2": {
+      "distance": "2",
+      "unit": "km",
+      "effort": "easy",
+      "intervals": "Very easy jog, 3x20 s strides"
+    },
+    "28-6-0": {
+      "distance": "113",
+      "unit": "km",
+      "effort": "medium",
+      "intervals": "Swim 1.9 km, bike 90 km, run 21.1 km. Bike easy to medium, first 5 km of the run easy, race effort after that"
+    }
+  }
+}

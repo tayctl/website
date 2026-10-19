@@ -1,0 +1,315 @@
+:root {
+  color-scheme: dark;
+
+  /* Dark Nord page colours */
+  --bg: #2E3440;
+  --ink: #ECEFF4;
+  --muted: #D8DEE9;
+  --line: #434C5E;
+  --current-week: #3B4252;
+
+  /* Nord colours for week-load indicators */
+  --week-build: #A3BE8C;
+  --week-recovery: #D8DEE9;
+  --week-taper: #B48EAD;
+  --week-race: #EBCB8B;
+
+  /* Official Nord session colours */
+  --swim: #88C0D0;
+  --bike: #A3BE8C;
+  --run: #D08770;
+  --strength: #B48EAD;
+  --rest: #D8DEE9;
+  --race: #EBCB8B;
+
+  font-family: "IBM Plex Sans";
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.page {
+  width: min(1360px, 100%);
+  margin-inline: auto;
+  padding: 40px 28px 48px;
+}
+
+.page-header {
+  margin-bottom: 24px;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--week-build);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(38px, 6vw, 54px);
+  letter-spacing: -.05em;
+  line-height: 1;
+}
+
+.summary {
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 18px;
+  padding: 14px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.session-legend {
+  border-top: 0;
+  padding-top: 12px;
+}
+
+.legend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.swatch {
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+}
+
+.swatch.week-build { background: var(--week-build); }
+.swatch.week-recovery { background: var(--week-recovery); }
+.swatch.week-taper { background: var(--week-taper); }
+.swatch.week-race { background: var(--week-race); }
+
+.swatch.swim { background: var(--swim); }
+.swatch.bike { background: var(--bike); }
+.swatch.run { background: var(--run); }
+.swatch.strength { background: var(--strength); }
+.swatch.rest { background: var(--rest); }
+.swatch.race { background: var(--race); }
+
+.plan-scroll {
+  margin-top: 8px;
+}
+
+.weekdays,
+.week-row {
+  display: grid;
+  grid-template-columns: 128px repeat(7, minmax(0, 1fr));
+  gap: 9px;
+}
+
+.weekdays {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  padding: 11px 9px;
+  border-bottom: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+
+.week-row {
+  padding: 13px 9px;
+  border-bottom: 1px solid var(--line);
+}
+
+.week-row.current {
+  background: var(--current-week);
+}
+
+.week-meta {
+  min-width: 0;
+  padding-left: 9px;
+  border-left: 4px solid var(--week-colour, var(--line));
+}
+
+.week-number {
+  display: block;
+  font-size: 15px;
+  font-weight: 750;
+}
+
+.week-date,
+.week-phase {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.week-note {
+  display: block;
+  margin-top: 7px;
+  color: var(--ink);
+  font-size: 12px;
+  font-style: normal;
+}
+
+.day {
+  min-width: 0;
+}
+
+.day-name {
+  display: none;
+}
+
+/* Session cards retain Nord colours, with dark text for contrast. */
+.session {
+  display: block;
+  margin-bottom: 7px;
+  padding: 8px 9px;
+  border: 0;
+  border-radius: 5px;
+  color: #2E3440;
+  font-size: 12px;
+}
+
+.session:last-child {
+  margin-bottom: 0;
+}
+
+.session.swim { background: var(--swim); }
+.session.bike { background: var(--bike); }
+.session.run { background: var(--run); }
+.session.strength { background: var(--strength); }
+.session.rest { background: var(--rest); }
+.session.race { background: var(--race); }
+
+details.session {
+  cursor: pointer;
+}
+
+.session summary {
+  font-weight: 700;
+  line-height: 1.4;
+  cursor: pointer;
+}
+
+.session summary:focus-visible {
+  outline: 2px solid #81A1C1;
+  outline-offset: 3px;
+}
+
+.session-details {
+  margin-top: 8px;
+  padding-top: 7px;
+  border-top: 1px solid rgb(46 52 64 / 25%);
+  font-size: 11px;
+  white-space: pre-wrap;
+}
+
+.detail {
+  margin: 3px 0;
+}
+
+.detail strong {
+  font-weight: 700;
+}
+
+.no-details {
+  margin: 3px 0;
+  font-style: italic;
+}
+
+footer {
+  margin-top: 22px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+footer p {
+  margin: 4px 0;
+}
+
+code {
+  color: var(--ink);
+}
+
+@media (max-width: 1050px) and (min-width: 701px) {
+  .plan-scroll {
+    overflow-x: auto;
+  }
+
+  .weekdays,
+  .week-row {
+    min-width: 960px;
+  }
+}
+
+@media (max-width: 700px) {
+  .page {
+    padding: 30px 16px 38px;
+  }
+
+  .weekdays {
+    display: none;
+  }
+
+  .week-row {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    margin-bottom: 14px;
+    padding: 13px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: #333A47;
+  }
+
+  .week-row.current {
+    background: var(--current-week);
+  }
+
+  .week-meta {
+    display: grid;
+    grid-template-columns: auto auto 1fr;
+    align-items: baseline;
+    gap: 5px 9px;
+  }
+
+  .week-note {
+    grid-column: 1 / -1;
+    margin-top: 0;
+  }
+
+  .day {
+    display: grid;
+    grid-template-columns: 48px minmax(0, 1fr);
+    gap: 8px;
+    align-items: start;
+    padding-top: 8px;
+    border-top: 1px solid var(--line);
+  }
+
+  .day-name {
+    display: block;
+    padding-top: 7px;
+    color: var(--muted);
+    font-size: 12px;
+    font-weight: 650;
+  }
+}
