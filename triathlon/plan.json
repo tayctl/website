@@ -17,7 +17,8 @@
           "Strength A"
         ],
         [
-          "Run 1"
+          "Run 1",
+          "Swim 3"
         ],
         [
           "Bike 1",
@@ -50,7 +51,8 @@
           "Strength A"
         ],
         [
-          "Run 1"
+          "Run 1",
+          "Swim 3"
         ],
         [
           "Bike 1",
@@ -83,7 +85,8 @@
           "Strength A"
         ],
         [
-          "Run 1"
+          "Run 1",
+          "Swim 3"
         ],
         [
           "Bike 1",
@@ -116,7 +119,8 @@
           "Strength A"
         ],
         [
-          "Run 1"
+          "Run 1",
+          "Swim 3"
         ],
         [
           "Bike 1",
@@ -149,7 +153,8 @@
           "Strength A"
         ],
         [
-          "Run 1"
+          "Run 1",
+          "Swim 3"
         ],
         [
           "Bike 1",
@@ -182,7 +187,8 @@
           "Strength A"
         ],
         [
-          "Run 1"
+          "Run 1",
+          "Swim 3"
         ],
         [
           "Bike 1",
@@ -199,7 +205,7 @@
           "Run 2"
         ]
       ],
-      "note": ""
+      "note": "Fri: first straight 1500 m"
     },
     {
       "n": 7,
@@ -916,9 +922,7 @@
           "Rest"
         ],
         [
-          "Swim (shakeout)",
-          "Bike (shakeout)",
-          "Run (shakeout)"
+          "Rest"
         ],
         [
           "RACE DAY"
@@ -929,10 +933,10 @@
   ],
   "workouts": {
     "1-1-0": {
-      "distance": "600",
+      "distance": "700",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "100 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 2x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "4x100 m, rest 12 breaths, 4x50 m, rest 8 breaths, 4x25 m, rest 4 breaths"
     },
     "1-1-1": {
       "distance": "",
@@ -959,10 +963,10 @@
       "intervals": ""
     },
     "1-4-0": {
-      "distance": "800",
+      "distance": "700",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 5x100 m steady, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "4x100 m, rest 12 breaths, 4x50 m, rest 8 breaths, 4x25 m, rest 4 breaths"
     },
     "1-4-1": {
       "distance": "",
@@ -983,10 +987,10 @@
       "intervals": ""
     },
     "2-1-0": {
-      "distance": "700",
+      "distance": "875",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "100 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "175 m, rest 12 breaths, 4x100 m, rest 10 breaths, 4x50 m, rest 6 breaths, 4x25 m, rest 4 breaths"
     },
     "2-1-1": {
       "distance": "",
@@ -1013,10 +1017,10 @@
       "intervals": ""
     },
     "2-4-0": {
-      "distance": "900",
+      "distance": "875",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 6x100 m steady, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "175 m, rest 12 breaths, 4x100 m, rest 10 breaths, 4x50 m, rest 6 breaths, 4x25 m, rest 4 breaths"
     },
     "2-4-1": {
       "distance": "",
@@ -1037,10 +1041,10 @@
       "intervals": ""
     },
     "3-1-0": {
-      "distance": "800",
+      "distance": "1150",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "375 m, rest 12 breaths, 175 m, rest 10 breaths, 4x100 m, rest 8 breaths, 4x50 m, rest 4 breaths"
     },
     "3-1-1": {
       "distance": "",
@@ -1067,10 +1071,10 @@
       "intervals": ""
     },
     "3-4-0": {
-      "distance": "1000",
+      "distance": "1150",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 3x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "375 m, rest 12 breaths, 175 m, rest 10 breaths, 4x100 m, rest 8 breaths, 4x50 m, rest 4 breaths"
     },
     "3-4-1": {
       "distance": "",
@@ -1091,10 +1095,10 @@
       "intervals": ""
     },
     "4-1-0": {
-      "distance": "600",
+      "distance": "1425",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "100 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 2x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "550 m, rest 10 breaths, 275 m, rest 8 breaths, 4x100 m, rest 6 breaths, 4x50 m, rest 4 breaths"
     },
     "4-1-1": {
       "distance": "",
@@ -1121,10 +1125,10 @@
       "intervals": ""
     },
     "4-4-0": {
-      "distance": "800",
+      "distance": "1425",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 5x100 m steady, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "550 m, rest 10 breaths, 275 m, rest 8 breaths, 4x100 m, rest 6 breaths, 4x50 m, rest 4 breaths"
     },
     "4-4-1": {
       "distance": "",
@@ -1145,10 +1149,10 @@
       "intervals": ""
     },
     "5-1-0": {
-      "distance": "900",
+      "distance": "1525",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 4x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "925 m, rest 8 breaths, 4x100 m, rest 4 breaths, 4x50 m, rest 4 breaths"
     },
     "5-1-1": {
       "distance": "",
@@ -1175,10 +1179,10 @@
       "intervals": ""
     },
     "5-4-0": {
-      "distance": "1100",
+      "distance": "1525",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x200 m steady, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "925 m, rest 8 breaths, 4x100 m, rest 4 breaths, 4x50 m, rest 4 breaths"
     },
     "5-4-1": {
       "distance": "",
@@ -1199,10 +1203,10 @@
       "intervals": ""
     },
     "6-1-0": {
-      "distance": "1000",
+      "distance": "1550",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "1100 m, rest 6 breaths, 3x100 m, rest 4 breaths, 3x50 m, rest 4 breaths"
     },
     "6-1-1": {
       "distance": "",
@@ -1229,10 +1233,10 @@
       "intervals": ""
     },
     "6-4-0": {
-      "distance": "1200",
+      "distance": "1500",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, relaxed, no stopping",
+      "intervals": "1500 m straight, no rests (1650 yd, a swimmer's mile)"
     },
     "6-4-1": {
       "distance": "",
@@ -1255,8 +1259,8 @@
     "7-1-0": {
       "distance": "1000",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 5x100 m steady, rest 20 s, 100 m easy cooldown"
     },
     "7-1-1": {
       "distance": "",
@@ -1283,10 +1287,10 @@
       "intervals": ""
     },
     "7-4-0": {
-      "distance": "1300",
+      "distance": "1700",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 5x200 m steady, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1500 m continuous at steady effort, 100 m easy cooldown"
     },
     "7-4-1": {
       "distance": "",
@@ -1307,10 +1311,10 @@
       "intervals": ""
     },
     "8-1-0": {
-      "distance": "800",
+      "distance": "900",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 4x100 m steady, rest 20 s, 100 m easy cooldown"
     },
     "8-1-1": {
       "distance": "",
@@ -1339,8 +1343,8 @@
     "8-4-0": {
       "distance": "1000",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 3x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 800 m continuous at steady effort, 100 m easy cooldown"
     },
     "8-4-1": {
       "distance": "",
@@ -1363,8 +1367,8 @@
     "9-1-0": {
       "distance": "1100",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 6x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 6x100 m steady, rest 20 s, 100 m easy cooldown"
     },
     "9-1-1": {
       "distance": "",
@@ -1391,10 +1395,10 @@
       "intervals": ""
     },
     "9-4-0": {
-      "distance": "1400",
+      "distance": "1700",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 5x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1500 m continuous at steady effort, 100 m easy cooldown"
     },
     "9-4-1": {
       "distance": "",
@@ -1415,10 +1419,10 @@
       "intervals": "Easy, last 3 km at medium"
     },
     "10-1-0": {
-      "distance": "1100",
+      "distance": "1300",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 6x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 8x100 m steady, rest 15 s, 100 m easy cooldown"
     },
     "10-1-1": {
       "distance": "",
@@ -1469,10 +1473,10 @@
       "intervals": "Easy, last 3 km at medium"
     },
     "11-1-0": {
-      "distance": "1200",
+      "distance": "1300",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 8x100 m alternating steady and strong, rest 15 s, 100 m easy cooldown"
     },
     "11-1-1": {
       "distance": "",
@@ -1499,10 +1503,10 @@
       "intervals": ""
     },
     "11-4-0": {
-      "distance": "1500",
+      "distance": "1800",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 6x200 m steady, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1600 m continuous at steady effort, 100 m easy cooldown"
     },
     "11-4-1": {
       "distance": "",
@@ -1529,10 +1533,10 @@
       "intervals": "Easy, last 3 km at medium"
     },
     "12-1-0": {
-      "distance": "1000",
+      "distance": "1100",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 6x100 m steady, rest 20 s, 100 m easy cooldown"
     },
     "12-1-1": {
       "distance": "",
@@ -1561,8 +1565,8 @@
     "12-4-0": {
       "distance": "1200",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1000 m continuous at steady effort, 100 m easy cooldown"
     },
     "12-4-1": {
       "distance": "",
@@ -1583,10 +1587,10 @@
       "intervals": ""
     },
     "13-1-0": {
-      "distance": "1300",
+      "distance": "1500",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 4x200 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 10x100 m steady, last 4 strong, rest 15 s, 100 m easy cooldown"
     },
     "13-1-1": {
       "distance": "",
@@ -1613,10 +1617,10 @@
       "intervals": ""
     },
     "13-4-0": {
-      "distance": "1600",
+      "distance": "1900",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 6x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1700 m continuous at steady effort, 100 m easy cooldown"
     },
     "13-4-1": {
       "distance": "",
@@ -1643,10 +1647,10 @@
       "intervals": "Easy, last 3 km at medium"
     },
     "14-1-0": {
-      "distance": "1400",
+      "distance": "1500",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 4x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 4x200 m steady, rest 20 s, then 4x50 m fast, rest 20 s, 100 m easy cooldown"
     },
     "14-1-1": {
       "distance": "",
@@ -1673,10 +1677,10 @@
       "intervals": ""
     },
     "14-4-0": {
-      "distance": "1700",
+      "distance": "2000",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 7x200 m steady, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1800 m continuous at steady effort, 100 m easy cooldown"
     },
     "14-4-1": {
       "distance": "",
@@ -1703,10 +1707,10 @@
       "intervals": "Easy, last 3 km at medium"
     },
     "15-1-0": {
-      "distance": "1400",
+      "distance": "1700",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 4x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 12x100 m in 3 rounds of 4, last 100 of each round strong, rest 15 s, 45 s between rounds, 100 m easy cooldown"
     },
     "15-1-1": {
       "distance": "",
@@ -1733,10 +1737,10 @@
       "intervals": ""
     },
     "15-4-0": {
-      "distance": "1800",
+      "distance": "2000",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 7x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1800 m continuous at steady effort, 100 m easy cooldown"
     },
     "15-4-1": {
       "distance": "",
@@ -1765,8 +1769,8 @@
     "16-1-0": {
       "distance": "1100",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 6x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 6x100 m steady, rest 20 s, 100 m easy cooldown"
     },
     "16-1-1": {
       "distance": "",
@@ -1795,8 +1799,8 @@
     "16-4-0": {
       "distance": "1400",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 5x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1200 m continuous at steady effort, 100 m easy cooldown"
     },
     "16-5-0": {
       "distance": "120",
@@ -1811,10 +1815,10 @@
       "intervals": ""
     },
     "17-1-0": {
-      "distance": "1500",
+      "distance": "1700",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x200 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 6x200 m, middle two strong, rest 20 s, 100 m easy cooldown"
     },
     "17-1-1": {
       "distance": "",
@@ -1841,10 +1845,10 @@
       "intervals": ""
     },
     "17-4-0": {
-      "distance": "1900",
+      "distance": "2100",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 1000 m continuous at steady effort, 6x100 m easy, 15 s rest, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1900 m continuous at steady effort, 100 m easy cooldown"
     },
     "17-5-0": {
       "distance": "200",
@@ -1865,10 +1869,10 @@
       "intervals": "Easy, last 5 km at medium"
     },
     "18-1-0": {
-      "distance": "1500",
+      "distance": "1700",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x200 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 4x300 m steady, rest 30 s, 100 m easy cooldown"
     },
     "18-1-1": {
       "distance": "",
@@ -1895,10 +1899,10 @@
       "intervals": ""
     },
     "18-4-0": {
-      "distance": "2000",
+      "distance": "2200",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 1000 m continuous at steady effort, 3x200 m easy, 15 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 2000 m continuous at steady effort, 100 m easy cooldown"
     },
     "18-5-0": {
       "distance": "210",
@@ -1919,10 +1923,10 @@
       "intervals": "Easy, last 5 km at medium"
     },
     "19-1-0": {
-      "distance": "1600",
+      "distance": "1500",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 8x100 m strong, rest 20 s, then 4x50 m fast, rest 20 s, 100 m easy cooldown"
     },
     "19-1-1": {
       "distance": "",
@@ -1949,10 +1953,10 @@
       "intervals": ""
     },
     "19-4-0": {
-      "distance": "2000",
+      "distance": "2200",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 1000 m continuous at steady effort, 3x200 m easy, 15 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 2000 m continuous at steady effort, 100 m easy cooldown"
     },
     "19-5-0": {
       "distance": "225",
@@ -1973,10 +1977,10 @@
       "intervals": "Easy, last 5 km at medium"
     },
     "20-1-0": {
-      "distance": "1200",
+      "distance": "1100",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 6x100 m steady, rest 20 s, 100 m easy cooldown"
     },
     "20-1-1": {
       "distance": "",
@@ -2021,10 +2025,10 @@
       "intervals": ""
     },
     "21-1-0": {
-      "distance": "1600",
+      "distance": "1500",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace); race pace = a few seconds per 100 m slower than your 400 m time-trial pace",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 5x200 m at race pace, rest 20 s, 100 m easy cooldown"
     },
     "21-1-1": {
       "distance": "",
@@ -2051,10 +2055,10 @@
       "intervals": ""
     },
     "21-4-0": {
-      "distance": "2100",
+      "distance": "2200",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 1500 m continuous at steady effort, 3x100 m easy, 15 s rest, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 2000 m continuous at steady effort, last 400 m at race effort, 100 m easy cooldown"
     },
     "21-5-0": {
       "distance": "210",
@@ -2077,8 +2081,8 @@
     "22-1-0": {
       "distance": "1700",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 6x200 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace); race pace = a few seconds per 100 m slower than your 400 m time-trial pace",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 4x300 m at race pace, rest 30 s, 100 m easy cooldown"
     },
     "22-1-1": {
       "distance": "",
@@ -2105,10 +2109,10 @@
       "intervals": ""
     },
     "22-4-0": {
-      "distance": "2200",
+      "distance": "2300",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 1500 m continuous at steady effort, 4x100 m easy, 15 s rest, 100 m easy cooldown"
+      "effort": "steady, continuous; open water if possible",
+      "intervals": "100 m easy warmup, 2100 m continuous at steady effort, last 400 m at race effort, 100 m easy cooldown"
     },
     "22-5-0": {
       "distance": "240",
@@ -2131,8 +2135,8 @@
     "23-1-0": {
       "distance": "1700",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 6x200 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace); race pace = a few seconds per 100 m slower than your 400 m time-trial pace",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 6x200 m at race pace, rest 15 s, 100 m easy cooldown"
     },
     "23-1-1": {
       "distance": "",
@@ -2161,8 +2165,8 @@
     "23-4-0": {
       "distance": "2200",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 1500 m continuous at steady effort, 4x100 m easy, 15 s rest, 100 m easy cooldown"
+      "effort": "steady, continuous; open water if possible",
+      "intervals": "100 m easy warmup, 2000 m continuous at steady effort, last 400 m at race effort, 100 m easy cooldown"
     },
     "23-5-0": {
       "distance": "200",
@@ -2183,10 +2187,10 @@
       "intervals": "Easy, last 5 km at medium"
     },
     "24-1-0": {
-      "distance": "1300",
+      "distance": "1100",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 4x200 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 6x100 m steady, rest 20 s, 100 m easy cooldown"
     },
     "24-1-1": {
       "distance": "",
@@ -2213,10 +2217,10 @@
       "intervals": ""
     },
     "24-4-0": {
-      "distance": "1600",
+      "distance": "1400",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 6x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1200 m continuous at steady effort, 100 m easy cooldown"
     },
     "24-5-0": {
       "distance": "120",
@@ -2231,10 +2235,10 @@
       "intervals": ""
     },
     "25-1-0": {
-      "distance": "1600",
+      "distance": "1500",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace); race pace = a few seconds per 100 m slower than your 400 m time-trial pace",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 5x200 m at race pace, rest 20 s, 100 m easy cooldown"
     },
     "25-1-1": {
       "distance": "",
@@ -2261,10 +2265,10 @@
       "intervals": ""
     },
     "25-4-0": {
-      "distance": "2000",
+      "distance": "2200",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 1500 m continuous at steady effort, 2x100 m easy, 15 s rest, 100 m easy cooldown"
+      "effort": "steady, continuous; open water if possible",
+      "intervals": "100 m easy warmup, 2000 m continuous at steady effort, last 400 m at race effort, 100 m easy cooldown"
     },
     "25-5-0": {
       "distance": "210",
@@ -2285,10 +2289,10 @@
       "intervals": "Easy, last 5 km at medium"
     },
     "26-1-0": {
-      "distance": "1200",
+      "distance": "1100",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 3x200 m technique focus, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace)",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 6x100 m, alternating steady and strong, rest 20 s, 100 m easy cooldown"
     },
     "26-1-1": {
       "distance": "",
@@ -2315,10 +2319,10 @@
       "intervals": ""
     },
     "26-4-0": {
-      "distance": "1500",
+      "distance": "1700",
       "unit": "m",
-      "effort": "medium",
-      "intervals": "200 m easy warmup, 6x200 m steady, 20 s rest, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1500 m continuous at steady effort, 100 m easy cooldown"
     },
     "26-5-0": {
       "distance": "120",
@@ -2339,10 +2343,10 @@
       "intervals": "Relaxed easy run"
     },
     "27-1-0": {
-      "distance": "1000",
+      "distance": "900",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), 15 s rest, 5x100 m technique focus, 20 s rest, 100 m easy cooldown"
+      "effort": "drills, then steady to strong (strong = a little quicker than race pace); race pace = a few seconds per 100 m slower than your 400 m time-trial pace",
+      "intervals": "200 m easy warmup, 4x50 m drills (catch-up, fingertip drag, side kick), rest 15 s, 4x100 m at race pace, rest 30 s, 100 m easy cooldown"
     },
     "27-1-1": {
       "distance": "",
@@ -2365,8 +2369,8 @@
     "27-4-0": {
       "distance": "1200",
       "unit": "m",
-      "effort": "easy",
-      "intervals": "200 m easy warmup, 4x200 m steady, 20 s rest, plus 100 m easy, 100 m easy cooldown"
+      "effort": "steady, continuous",
+      "intervals": "100 m easy warmup, 1000 m continuous at steady effort, last 200 m at race effort, 100 m easy cooldown"
     },
     "27-5-0": {
       "distance": "90",
@@ -2427,6 +2431,42 @@
       "unit": "km",
       "effort": "medium",
       "intervals": "Swim 1.9 km, bike 90 km, run 21.1 km. Bike easy to medium, first 5 km of the run easy, race effort after that"
+    },
+    "1-2-1": {
+      "distance": "700",
+      "unit": "m",
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "4x100 m, rest 12 breaths, 4x50 m, rest 8 breaths, 4x25 m, rest 4 breaths"
+    },
+    "2-2-1": {
+      "distance": "875",
+      "unit": "m",
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "175 m, rest 12 breaths, 4x100 m, rest 10 breaths, 4x50 m, rest 6 breaths, 4x25 m, rest 4 breaths"
+    },
+    "3-2-1": {
+      "distance": "1150",
+      "unit": "m",
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "375 m, rest 12 breaths, 175 m, rest 10 breaths, 4x100 m, rest 8 breaths, 4x50 m, rest 4 breaths"
+    },
+    "4-2-1": {
+      "distance": "1425",
+      "unit": "m",
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "550 m, rest 10 breaths, 275 m, rest 8 breaths, 4x100 m, rest 6 breaths, 4x50 m, rest 4 breaths"
+    },
+    "5-2-1": {
+      "distance": "1525",
+      "unit": "m",
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "925 m, rest 8 breaths, 4x100 m, rest 4 breaths, 4x50 m, rest 4 breaths"
+    },
+    "6-2-1": {
+      "distance": "1550",
+      "unit": "m",
+      "effort": "steady, only partial recovery between sets",
+      "intervals": "1100 m, rest 6 breaths, 3x100 m, rest 4 breaths, 3x50 m, rest 4 breaths"
     }
   }
 }

@@ -79,6 +79,21 @@ function renderSession(session, details = {}) {
   return card;
 }
 
+function scrollToCurrentWeek(root) {
+  const current = root.querySelector(".week-row.current");
+  // Before the plan starts or after race week there is no current row.
+  // A URL hash means the visitor asked for a specific spot, so leave it alone.
+  if (!current || location.hash) return;
+
+  const scroll = () => current.scrollIntoView({ block: "start" });
+  scroll();
+
+  // Web fonts can shift the layout after the first paint, so scroll again.
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(scroll);
+  }
+}
+
 function render(plan) {
   const root = document.getElementById("plan");
   const today = new Date();
@@ -139,6 +154,8 @@ function render(plan) {
 
     root.append(row);
   });
+
+  scrollToCurrentWeek(root);
 }
 
 fetch("plan.json")

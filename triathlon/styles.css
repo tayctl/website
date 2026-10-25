@@ -22,7 +22,7 @@
   --rest: #D8DEE9;
   --race: #EBCB8B;
 
-  font-family: "IBM Plex Sans";
+  font-family: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 
 * {
@@ -135,6 +135,9 @@ h1 {
 }
 
 .week-row {
+  /* Keeps a week clear of the sticky weekday header when scrolled into view.
+     The header is about 40px tall: 11px padding x2, one 11px line, 1px border. */
+  scroll-margin-top: 40px;
   padding: 13px 9px;
   border-bottom: 1px solid var(--line);
 }
@@ -271,6 +274,8 @@ code {
   }
 
   .week-row {
+    /* The weekday header is hidden here, so only leave a small gap. */
+    scroll-margin-top: 12px;
     grid-template-columns: 1fr;
     gap: 10px;
     margin-bottom: 14px;
@@ -312,4 +317,5 @@ code {
     font-size: 12px;
     font-weight: 650;
   }
+
 }
